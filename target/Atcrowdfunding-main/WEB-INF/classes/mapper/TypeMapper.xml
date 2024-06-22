@@ -2,7 +2,7 @@
 <!DOCTYPE mapper
         PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
         "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
-<mapper namespace="com.wdd.library.dao.TypeMapper">
+<mapper namespace="com.wdd.library.mapper.TypeMapper">
     <resultMap type="com.wdd.library.pojo.Category" id="typeinfo">
         <result column="cid" property="cid"/>
         <result column="cname" property="cname"/>

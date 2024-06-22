@@ -180,7 +180,7 @@
 
 /* login */
 .login-body {
-    background: url("../image/bg.png") repeat fixed;
+    background: url("../images/sky.jpg") repeat fixed;
 }
 
 .login-box {
@@ -297,7 +297,7 @@ input[type='checkbox'] {
     -webkit-transform: translate(50%, 50%);
     -ms-transform: translate(50%, 50%);
     transform: translate(50%, 50%);
-    font-family: "Microsoft Yahei";
+    font-family: "Microsoft Yahei", serif;
     content: "√";
     color: #FFFFFF;
     font-size: 16px;
