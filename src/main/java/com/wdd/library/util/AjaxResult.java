@@ -1,7 +1,7 @@
 package com.wdd.library.util;
 
 import lombok.Data;
-import lombok.Setter;
+
 
 @Data
 public class AjaxResult {
